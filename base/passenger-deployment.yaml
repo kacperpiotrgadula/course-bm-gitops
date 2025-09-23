@@ -20,7 +20,7 @@ spec:
         - name: github
       containers:
         # CHANGE TO YOURS:<org/repo:tag>
-        - image: ghcr.io/kacperpiotrgadula/bm-passenger:latest
+        - image: ghcr.io/kacperpiotrgadula/course-bm-flight:latest
           name: passenger
           ports:
             - containerPort: 8080

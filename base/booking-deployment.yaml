@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         # CHANGE TO YOURS:<org/repo:tag>
-        - image: ghcr.io/kacperpiotrgadula/bm-booking:latest
+        - image: ghcr.io/kacperpiotrgadula/course-bm-flight:latest
           name: booking
           ports:
             - containerPort: 8080
