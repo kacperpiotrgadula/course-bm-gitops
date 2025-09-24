@@ -9,6 +9,9 @@
 *.userosscache
 *.sln.docstates
 
+.keys/age.agekey
+.sops.yaml
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
